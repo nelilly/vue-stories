@@ -2,6 +2,7 @@
   <div id="app">
     <header>
       <h2>Thaumatrope Stories</h2>
+      <p><a href="http://twitter.com/thaumatrope">@Thaumatrope</a></p>
     </header>
     <main>
     <aside class="sidebar">
@@ -92,6 +93,20 @@ a {
 }
 header {
   color: #fff;
+}
+header h2 {
+  margin-bottom: 0;
+}
+header p {
+  margin-top: 0;
+}
+header a {
+  color: #bbb;
+  text-decoration: none;
+}
+header a:hover {
+  color: #fff;
+  text-decoration: none;
 }
 main {
   display: flex;

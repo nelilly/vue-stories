@@ -2,6 +2,8 @@
 
 > Vue Stories
 
+On December 12, 2008, I launched the first Twitter fiction magazine called [Thaumatrope](https://thaumatrope.greententacles.com/about/). **vue-stories** is an exploration of Thaumatrope with the modern front-end technology as a single page application in Vue.js.
+
 ## Build Setup
 
 ``` bash
