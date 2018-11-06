@@ -13,7 +13,7 @@
         data() {
             return {
             story: null,
-            endpoint: 'http://thaumatrope.greententacles.com/api/stories/',
+            endpoint: 'https://thaumatrope.greententacles.com/api/stories/',
             }
         },
         methods: {
